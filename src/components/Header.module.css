@@ -1,0 +1,18 @@
+.promotion {
+  padding: 0.875rem 1rem;
+  background-color: #fb1;
+  display: block;
+  color: #764701;
+  text-align: center;
+  font: var(--font-16);
+}
+
+.header {
+  color: #333;
+  text-align: center;
+}
+
+.titleHeader {
+  padding: 0.5rem 1rem;
+  font: var(--font-24);
+}

@@ -1,0 +1,22 @@
+.footer {
+  padding: 0.875rem 1rem;
+  background-color: #fb1;
+  color: #764701;
+
+  font: var(--font-16);
+}
+.footer a {
+  color: #764701;
+}
+.footer .footerWrapper {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media (max-width: 480px) {
+  .footer .footerWrapper {
+    flex-direction: column;
+  }
+}
