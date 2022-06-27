@@ -10,7 +10,7 @@
 
 <h2 id="preview">:iphone: Demo mobile</h2>
 <img src="https://user-images.githubusercontent.com/77207253/176011980-477c5576-0a1c-4001-a35a-a10c3c3c6135.png" alt="autor" width="400"  >
-<h4>Clique aqui para visitar o projeto <a href="">Codelandia Blog</a></h4>
+<h4>Clique aqui para visitar o projeto <a href="https://jordans-shoes.vercel.app/">Jordan Shoes</a></h4>
 
 <h3 id="tecnologias">🛠 Tecnologias utilizadas</h3>
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
